@@ -56,7 +56,7 @@ A **Telegram bot** designed to streamline the scheduling, management, and notifi
 
 1. **Clone the Repository** (or download the script):
   ```bash
-   git clone <repository-url>
+   git clone https://github.com/sirfilips/calendar-scheduler-bot
    cd senate-bot
   ```
 2. **Install Dependencies**:
